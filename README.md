@@ -96,7 +96,7 @@
    
 ## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
 
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in//) 👨🏻‍💻 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/hassan-saeed2/) 👨🏻‍💻 <br>
   ⦿ Shoot Me an [Email](mailto:muhammadhassansaee@gmail.com) 💌 <br>
 
 
