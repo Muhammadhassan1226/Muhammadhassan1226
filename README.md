@@ -17,6 +17,22 @@
 
 ## :zap: Skills
 
+  ### Languages
+
+  
+
+   <a href="#" target="_blanfalse" />
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"  height="90" />
+  </a>
+   <a href="https://www.typescriptlang.org/" target="_blanfalse" />
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"  height="90" />
+  </a>
+   <a href="https://www.python.org/" target="_blanfalse" />
+    <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"  height="90" />
+  </a>
+
+  ### Devops
+  
    <a href="https://www.linux.org/" target="_blanfalse" />
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="90" />
   </a>
