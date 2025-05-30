@@ -5,7 +5,7 @@
 
 <p align="center" >
   <samp>
-    Hello! My name is <em>Muhammad Hassan Saeed</em> and I am a DevOps⚙️ Engineer. I have a keen interest in cloud computing, containerization and automation. I am currently learning and experimenting with various DevOps tools and methodologies, with the goal of improving the software development and deployment process🤖.
+    Hello! My name is <em>Muhammad Hassan Saeed</em> and I am a AWS Certified Full Stack Developer. I have a keen interest in Artificial Intelligence , containerization and automation. I am currently learning and experimenting with various DevOps tools and methodologies, with the goal of improving the software development and deployment process🤖.
   </samp>
   <br/>
 </p>
