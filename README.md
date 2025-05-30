@@ -22,7 +22,7 @@
   
 
    <a href="#" target="_blanfalse" />
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"  height="90" />
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"  height="90" />
   </a>
    <a href="https://www.typescriptlang.org/" target="_blanfalse" />
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"  height="90" />
